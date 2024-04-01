@@ -1,1 +1,1 @@
-# Paraphrase-Detection
+# Paraphrase-Detection using Transformer architecture based language model. 
