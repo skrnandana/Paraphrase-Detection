@@ -18,10 +18,10 @@
 ## Fine-tuned model and example cases
 
 ## Analytics and Evaluation
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Paraphrase-Detection/Analytics/Attention%20analysis.png?version%3D1712255016076)
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Paraphrase-Detection/Analytics/Confusion%20matrix.png?version%3D1712255030818)
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Paraphrase-Detection/Analytics/losses.png?version%3D1712255042682)
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Paraphrase-Detection/Analytics/scores.png?version%3D1712255053500)
+![plot](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Paraphrase-Detection/Analytics/Attention%20analysis.png?version%3D1712255016076)
+![plot](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Paraphrase-Detection/Analytics/Confusion%20matrix.png?version%3D1712255030818)
+![plot](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Paraphrase-Detection/Analytics/losses.png?version%3D1712255042682)
+![plot](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Paraphrase-Detection/Analytics/scores.png?version%3D1712255053500)
 
 
 
