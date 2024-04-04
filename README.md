@@ -18,7 +18,7 @@
 ## Fine-tuned model and example cases
 
 ## Analytics and Evaluation
-
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Paraphrase-Detection/Analytics/losses.png?version%3D1712255042682)
 
 
 ## Conclusion
