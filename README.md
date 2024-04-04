@@ -19,5 +19,9 @@
 
 ## Analytics and Evaluation
 
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Attention%20analysis.png?version%3D1712254868624)
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/Confusion%20matrix.png?version%3D1712254908284)
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/scores.png?version%3D1712254929300)
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/prajwaljagadish/Desktop/losses.png?version%3D1712254940643)
 
 ## Conclusion
