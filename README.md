@@ -19,4 +19,9 @@
 
 ## Analytics and Evaluation
 
+### Output:
+<p align="center">
+<img src="Analytics/losses.png" />
+</p>
+ 
 ## Conclusion
