@@ -52,16 +52,16 @@ Following are some example:
 ## Analytics and Evaluation
 Following are some of the metrics and analysis for our fine-tuned bert model:
 <p align="center">
-<img src="Analytics/Attention analysis.png" width="300" height="200"/>
+<img src="Analytics/Attention analysis.png" width="450" height="300"/>
 </p>
 <p align="center">
-<img src="Analytics/Confusion matrix.png" />
+<img src="Analytics/Confusion matrix.png" width="450" height="300"/>
 </p>
 <p align="center">
-<img src="Analytics/losses.png" />
+<img src="Analytics/losses.png" width="450" height="300"/>
 </p>
 <p align="center">
-<img src="Analytics/scores.png" />
+<img src="Analytics/scores.png" width="450" height="300"/>
 </p>
  
 ## Conclusion
