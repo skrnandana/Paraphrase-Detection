@@ -1,19 +1,15 @@
 # CS 521 - Statistical natural language Processing : Final Semester Project (Spring 2024)
-
-# Paraphrase-Detection using Transformer architecture based language model. 
-# by - Prajwal Athreya Jagadish and Kavya Rama Nandana Sidda (images to be added here after description)
+Paraphrase-Detection using Transformer architecture based language model. 
+by - Prajwal Athreya Jagadish and Kavya Rama Nandana Sidda (images to be added here after description)
 
 ## Introduction
-In the field of Natural Language Processing (NLP), the ability to accurately detect paraphrases is essential for applications such as plagiarism detection, question answering systems, and machine translation. The task of identifying paraphrases—texts that convey the same meaning but are expressed differently—is challenging due to the intricate and diverse nature of human language. Traditional models in NLP have often fallen short in effectively handling the nuances and complexities of paraphrase detection. Recognizing these challenges, this project focuses on enhancing the efficacy of paraphrase detection through the utilization of Bidirectional Encoder Representations from Transformers (BERT), a state-of-the-art model in NLP.
-
-BERT's architecture, which leverages deep learning techniques to process words in relation to all the other words in a sentence (as opposed to one-directional reading), provides a robust framework for understanding the contextual relationships within text. Our study aims to explore how fine-tuning BERT on a carefully curated dataset containing a wide range of paraphrase variations can improve its performance in detecting paraphrases. By integrating BERT's advanced capabilities with a targeted training approach, we seek to set a new standard for accuracy in paraphrase detection, paving the way for more reliable applications in various domains of NLP.
+Accurate paraphrasing identification is crucial for Natural Language Processing (NLP) applications, which include machine translation, question-answering systems, and plagiarism detection. Finding paraphrases or writings with the same content but conveyed differently may be difficult since human language is complex and varied. NLP's traditional models have frequently failed to capture the subtleties and complexity of paraphrase detection. Taking note of these difficulties, this study aims to apply the state-of-the-art NLP model Bidirectional Encoder Representations from Transformers (BERT) to improve the effectiveness of paraphrase identification. The design of BERT offers a strong foundation for comprehending the contextual relationships found in the text since it uses deep learning techniques to analyze words in relation to every other word in a sentence (as opposed to one-directional reading). We aim to investigate how BERT's detection performance of paraphrases might be enhanced by fine-tuning it on a carefully selected dataset with various paraphrase variants. We want to raise the bar for paraphrase detection accuracy by combining BERT's sophisticated features with a focused training strategy, opening the door to more dependable applications across various NLP areas.
 
 ## Environment setup
+We set up our development environment to ensure all the libraries and dependencies were installed. This incorporated PyTorch for deep learning, implementing the BERT model, which included the Transformers library, and other necessary libraries, such as Scikit-learn and Pandas.
 
 ## Dataset used
-For this research project, we utilized the Paraphrase Adversaries from Word Scrambling (PAWS) dataset, as described in the arXiv:1904.01130 paper. PAWS is meticulously designed to test the robustness of paraphrase detection models against complex sentence structures and contexts, thereby providing a comprehensive platform for evaluating our fine-tuned BERT model.
-
-The dataset consists of pairs of sentences, each evaluated for paraphrasing. Each sentence pair is marked as either "Paraphrased" if the sentences are paraphrases of each other, or "Not paraphrased" if they are not. The PAWS dataset includes 100,000 sentence pairs, affording a rich set of data for both training and validation purposes.
+We used the Paraphrase Adversaries from Word Scrambling (PAWS) dataset for this study, as detailed in the arXiv:1904.01130 publication. A thorough environment for assessing our optimized BERT model, PAWS is painstakingly created to evaluate the resilience of paraphrase detection techniques against intricate sentence structures and situations. The sentences in the sample are paired off and assessed for paraphrase. If two sentences are paraphrases of one another, they are labeled as "Paraphrased"; if not, they are labeled as "Not paraphrased." With 100,000 sentence pairings in the PAWS dataset, a wealth of information is available for training and validation. 
 
 ## Custom dataset class
 
