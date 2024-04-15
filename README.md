@@ -54,15 +54,23 @@ Following are some of the metrics and analysis for our fine-tuned bert model:
 <p align="center">
 <img src="Analytics/Attention analysis.png" width="450" height="300"/>
 </p>
+<p align="center"> The above graph shows Average Attention Weights for Token 0, indicating the importance of a specific token across different layers in a neural network, with attention weight values ranging across layers and higher values suggesting greater relevance.</p>
+
 <p align="center">
 <img src="Analytics/Confusion matrix.png" width="450" height="300"/>
 </p>
+<p align="center"> The above image shows a Confusion Matrix for a classification model distinguishing between paraphrases and non-paraphrases, with the matrix indicating high numbers of true positives and true negatives, implying good performance, though there are some misclassifications evident in the off-diagonal cells.</p>
+
 <p align="center">
 <img src="Analytics/losses.png" width="450" height="300"/>
 </p>
+<p align="center"> Above is the graph of "Training and Validation Loss" across epochs, depicting a typical convergence pattern where both training and validation loss decrease over time, suggesting that the model is learning and generalizing well to unseen data as epochs progress.</p>
+
 <p align="center">
 <img src="Analytics/scores.png" width="450" height="300"/>
 </p>
+<p align="center"> The above image contains a classification report in table format, showing high precision, recall, and F1-scores for both classes ('Not Paraphrase' and 'Paraphrase'), along with overall metrics such as accuracy and macro-averaged scores, all indicating a high-performing model with a total support of 8,000 instances.</p>
+
  
 ## Conclusion
 <div style="text-align: justify">In conclusion, we were able to effectively use the BERT-base-uncased model to paraphrase detection in our project work. We created a reliable method for determining sentence similarity by employing a methodical approach that included data preparation, model training, assessment, and inference. By using the trained model in applications that need paraphrase detection, it may be improved even further and help progress the field of natural language comprehension.</div>
