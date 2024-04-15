@@ -3,8 +3,9 @@ Paraphrase-Detection using Transformer architecture based language model.
 by - Prajwal Athreya Jagadish and Kavya Rama Nandana Sidda (images to be added here after description)
 
 ## Introduction
+<div style="text-align: right">
 Accurate paraphrasing identification is crucial for Natural Language Processing (NLP) applications, which include machine translation, question-answering systems, and plagiarism detection. Finding paraphrases or writings with the same content but conveyed differently may be difficult since human language is complex and varied. NLP's traditional models have frequently failed to capture the subtleties and complexity of paraphrase detection. Taking note of these difficulties, this study aims to apply the state-of-the-art NLP model Bidirectional Encoder Representations from Transformers (BERT) to improve the effectiveness of paraphrase identification. The design of BERT offers a strong foundation for comprehending the contextual relationships found in the text since it uses deep learning techniques to analyze words in relation to every other word in a sentence (as opposed to one-directional reading). We aim to investigate how BERT's detection performance of paraphrases might be enhanced by fine-tuning it on a carefully selected dataset with various paraphrase variants. We want to raise the bar for paraphrase detection accuracy by combining BERT's sophisticated features with a focused training strategy, opening the door to more dependable applications across various NLP areas.
-
+</div>
 ## Environment setup
 We set up our development environment to ensure all the libraries and dependencies were installed. This incorporated PyTorch for deep learning, implementing the BERT model, which included the Transformers library, and other necessary libraries, such as Scikit-learn and Pandas.
 
